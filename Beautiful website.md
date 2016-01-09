@@ -3,7 +3,7 @@
 * 慕课网 ---- http://www.imooc.com/
 * 极客学院 ---- http://www.jikexueyuan.com/
 * 网易云课堂 ---- http://study.163.com/
-* 233网校 ---- http://www.233.com/</br> （考证必备）
+* 233网校 ---- http://www.233.com/（考证必备）
 * 牛客网 ---- http://www.nowcoder.com/585310 （笔试题超级全）
 * 我爱自学网 ---- http://www.52zxw.com/ （比较杂）
 * 鱼C工作室 ---- http://www.fishc.com/ （教学很有趣）
