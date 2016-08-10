@@ -49,7 +49,18 @@
 * C_Lian ---- https://blog.clian.net/
 * Wilee ---- http://wilee.me/
 * Fetool ---- http://www.fefork.com/fetool/
-
+* YourWildDad --- https://newilddad.com/
+* 地瓜 --- http://digua.moe/
+* 刘宇波 --- http://liuyubobobo.com/
+* Troy --- http://tangrui.win/
+* LANGLIU--- http://liulang.co/
+* 葛浩武 --- https://www.gehaowu.com/
+* 绿葱侠 --- https://www.lmintlcx.com/
+* Laker --- http://laker.me/
+* oneV --- https://onevcat.com/#blog
+* Ryan --- http://blog.iplayloli.com/
+* Medici --- http://blog.evalbug.com/
+* Ahonn --- http://www.ahonn.me/about/
 #### **:evergreen_tree:Get新技能**
 * Emoji大全 ---- http://emoji.muan.co/
 * 谷歌修改hosts文件 ---- http://laod.cn/hosts/2015-google-hosts.html/
