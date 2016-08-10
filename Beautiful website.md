@@ -61,6 +61,11 @@
 * Ryan --- http://blog.iplayloli.com/
 * Medici --- http://blog.evalbug.com/
 * Ahonn --- http://www.ahonn.me/about/
+* zhangolve --- http://hktkdy.com/
+* 花生PeA --- http://pea.nutjs.com/
+* 北漂IT --- http://blog.3gcnbeta.com/
+* 草依山 --- http://jser.me/
+
 #### **:evergreen_tree:Get新技能**
 * Emoji大全 ---- http://emoji.muan.co/
 * 谷歌修改hosts文件 ---- http://laod.cn/hosts/2015-google-hosts.html/
